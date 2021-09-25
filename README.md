@@ -3,7 +3,7 @@
 You can find the materials for the course here or look at the assignments specifications linked at right of every section in the table of contents.
 Hope this is helpful to other students, if you don't mind please leave a star! Every exercise in this repository scored 100% on submission.*
 
-# YOUR PROJECT TITLE
+# HANGMAN AND CHESS
 #### Video Demo:
 https://youtu.be/7t_tNOn16ZU
 #### Description:

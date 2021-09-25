@@ -19,19 +19,21 @@ I made a webpage which includes 2 simple games: Hangman and Chess.
   - Cash
 
 ## Week 2:
+- Link: https://github.com/katherine205203/CS50-Labs/tree/main/Week%202
 - Lab 2:
-  - Scrabble: https://github.com/me50/katherine205203/tree/89903619a84f895848f4ba4c15c816f5f547b734
+  - Scrabble
 - Problem Set 2:
-  - Readability: https://github.com/me50/katherine205203/tree/cf76ef167a7144bb297eaf92bac70d880a251c23
-  - Caesar: https://github.com/me50/katherine205203/tree/149b5606fdd9abed8afbcdd965cfe55068a18f9b
-  - Substitution: https://github.com/me50/katherine205203/tree/9a154b43bcbc08b1e1fb2d3b9d0c9d302887d668
+  - Readability
+  - Caesar
+  - Substitution
 
 ## Week 3:
+- Link: https://github.com/katherine205203/CS50-Labs/tree/main/Week%203
 - Lab 3:
-  - Sort: https://github.com/me50/katherine205203/tree/25f0695420a779ac8d4d47e66a84d51f4b8025c4
+  - Sort
 - Problem Set 3:
-  - Plurality: https://github.com/me50/katherine205203/tree/57e5c77dd2ba575102f184a28163a4df02b5defc
-  - Tideman: https://github.com/me50/katherine205203/tree/c9344603d773e6b88f366d8dfa13b11f42794be3
+  - Plurality
+  - Tideman
 
 ## Week 4:
 - Lab 4:

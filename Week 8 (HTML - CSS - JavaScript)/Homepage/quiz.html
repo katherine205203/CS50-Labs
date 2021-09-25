@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="quiz.css" rel="stylesheet">
+        <title>Answer Section!</title>
+
+            <script>
+        function answerHTML(correct, element) {
+            if (correct) {
+                document.getElementById(element).innerHTML = "Correct!"
+            }
+            else {
+                document.getElementById(element).innerHTML = "Incorrect"
+            }
+        }
+
+        function resetButtonsState() {
+
+            var buttons = document.querySelectorAll(".button");
+            buttons.forEach(function (button) {
+                button.classList.remove('incorrect');
+                button.classList.remove('correct');
+            })
+        }
+
+        function getAnswerButton() {
+            resetButtonsState()
+            if (event.target.id == "correct") {
+                event.target.classList.add('correct');
+                answerHTML(true, "answer1");
+            }
+            else {
+                event.target.classList.add('incorrect');
+                answerHTML(false, "answer1");
+            }
+
+        }
+
+        document.addEventListener("DOMContentLoaded", function (event) {
+            var buttons = document.querySelectorAll(".button");
+            buttons.forEach(function (button) {
+                button.addEventListener("click", getAnswerButton);
+            });
+
+            inputField = document.querySelector('input');
+            checkButton = document.querySelector("#check");
+            checkButton.addEventListener('click', function (evt) {
+                if (inputField.value == "31") {
+                    answerHTML(true, "answer2");
+                }
+                else {
+                    answerHTML(false, "answer2");
+                }
+            });
+        });
+    </script>
+
+
+
+    </head>
+    <body>
+
+        <div class="jumbotron">
+            <a href="index.html">
+                <h1>Back to Homepage!</h1>
+            </a>
+        </div>
+
+        <div class="container">
+
+            <div class="section1">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <div class "choice">
+                    <!-- TODO: Add multiple choice question here -->
+                    <h3>What is the name of the Traditional Graduation Event for LHPer 18-21?</h3>
+                    <button class="button">Phóng</button>
+                    <button class="button">Chớp</button>
+                    <button class="button">Sắc</button>
+                    <button class="button">Xoáy</button>
+                    <button class="button">Khắc</button>
+                    <button class="button">Tốc</button>
+                    <button id="correct" class="button">Tích</button>
+                </div>
+
+                <br>
+                <p id = "answer1"></p>
+
+            </div>
+
+            <br>
+            <br>
+
+            <div class="section2">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <h3>How many organizers are there in The 2018 - 2021 Tradiontional Graduation Event?</h3>
+                <input type="number" placeholder="Type your answer here">
+                <button id="check" class="input">Check Answer</button>
+
+                <br>
+                <p id = "answer2"></p>
+            </div>
+
+        </div>
+    </body>
+</html>

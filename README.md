@@ -9,13 +9,14 @@ https://youtu.be/7t_tNOn16ZU
 #### Description:
 I made a webpage which includes 2 simple games: Hangman and Chess.
 
-## Week 1:
+## Week 1: 
+- Link: https://github.com/katherine205203/CS50-Labs/tree/main/Week%201
 - Lab 1
-  - Hello: https://github.com/me50/katherine205203/tree/f45e30ada76714612a8bbf9ccebc79ad8c9a20ca
-  - Population: https://github.com/me50/katherine205203/tree/438637db680c56d0354a3f160e39b3c83629e8df
+  - Hello
+  - Population
 - Problem Set 1:
-  - Mario more: https://github.com/me50/katherine205203/tree/d5ab08805499d005bae0d08fd5f564804d732114
-  - Cash: https://github.com/me50/katherine205203/tree/8b5493ea71eeeb768a3077d88ff96fa9ee1b82b6
+  - Mario more
+  - Cash
 
 ## Week 2:
 - Lab 2:

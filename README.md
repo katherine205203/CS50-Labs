@@ -36,49 +36,55 @@ I made a webpage which includes 2 simple games: Hangman and Chess.
   - Tideman
 
 ## Week 4:
+- Link: https://github.com/katherine205203/CS50-Labs/tree/main/Week%204
 - Lab 4:
-  - Volumn: https://github.com/me50/katherine205203/tree/8d8f6ecb58d57af42394f08097596e67707e7e81
+  - Volumn
 - Problem Set 4:
-  - Filter more: https://github.com/me50/katherine205203/tree/29fd0e1e589bed90dab131a8c036303f6970b742
-  - Recover: https://github.com/me50/katherine205203/tree/da34032d81cf96b5ab35c8bb3d42a51de576252e
+  - Filter more
+  - Recover
 
 
 ## Week 5:
+- Link: https://github.com/katherine205203/CS50-Labs/tree/main/Week%205
 - Lab 5:
-  - Inheritance: https://github.com/me50/katherine205203/tree/5ebaac6799dbe07d0dfc805039a70af08b59fff9
+  - Inheritance
 - Problem Set 5
-  - Speller: https://github.com/me50/katherine205203/tree/b02563ce3e7274ceea9e4a37a80c4f957452b7c3
+  - Speller
 
 ## Week 6:
+- Link: https://github.com/katherine205203/CS50-Labs/tree/main/Week%206%20(Python)
 - Lab 6:
-  - World Cup: https://github.com/me50/katherine205203/tree/0a2c7fdfdb41d65df0d69bdeaadcfbffaf2eca59
+  - World Cup
 - Problem Set 6:
-  - Hello: https://github.com/me50/katherine205203/tree/58c5739409c8ec4ef8bd47621643bb87d5b90f4f
-  - Mario more: https://github.com/me50/katherine205203/tree/8e6a705075cc52f2e76d9a80e98477224c0a7302
-  - Cash: https://github.com/me50/katherine205203/tree/c354a29f0f0e53701e09b0e79f4133fd09986468
-  - Readability: https://github.com/me50/katherine205203/tree/ad2dc02cd0d79adac402e1e176639e0b4f93bb66
-  - DNA: https://github.com/me50/katherine205203/tree/24558d9c4f7ebafba4f7ba0ce484ceab2a9bafd1
+  - Hello
+  - Mario more
+  - Cash
+  - Readability
+  - DNA
 
 ## Week 7:
+- Link: https://github.com/katherine205203/CS50-Labs/tree/main/Week%207%20(SQL)
 - Lab 7:
-  - Songs: https://github.com/me50/katherine205203/tree/25f5bbae065694f8ba4bb29b3591fae65da1f6e7
+  - Songs
 - Problem Set 7:
-  - Movies: https://github.com/me50/katherine205203/tree/487fc10ad9af633d6d5606e9029ec731dc560439
-  - Fiftyville: https://github.com/me50/katherine205203/tree/19ee0d511826d26cca444f2be74a021eb746d3a5
+  - Movies
+  - Fiftyville
 
 ## Week 8:
+- Link: https://github.com/katherine205203/CS50-Labs/tree/main/Week%208%20(HTML%20-%20CSS%20-%20JavaScript)
 - Lab 8:
-  - Trivia: https://github.com/me50/katherine205203/tree/31ae372a8db24494262d5e4316ef66936758933b
+  - Trivia
 - Problem Set 8:
-  - Homepage: https://github.com/me50/katherine205203/tree/2cec27394cf090ed809748ac8762083feb061eb7
+  - Homepage
 
 ## Week 9:
+- Link: https://github.com/katherine205203/CS50-Labs/tree/main/Week%209%20(Database)
 - Lab 9:
-  - Birthdays: https://github.com/me50/katherine205203/tree/622b791c18b84af2c9a4a06588ee80ec23726504
+  - Birthdays
 - Problem Set 9:
-  - Finance: https://github.com/me50/katherine205203/tree/d31138ce857c487e2cf3ef5e9790f803dfe5d6f4
+  - Finance
 
 ## Week 10:
+- Link: https://github.com/katherine205203/CS50-Labs/tree/main/Week%2010
 - Lab 10:
-  - Ethics: https://github.com/me50/katherine205203/tree/f759fc696f7bd0df3ba4ea5eae00c64165bfbfb6
-
+  - Ethics
